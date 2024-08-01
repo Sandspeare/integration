@@ -1,0 +1,7 @@
+{
+    "INPUT_DIR":"E:\\my_code\\bindiffTest-v2.0\\temp",
+    "OUTPUT_DIR":"E:\\my_code\\bindiffTest-v2.0\\temp",
+    "TEMP_DIR":"E:\\my_code\\bindiffTest-v2.0\\temp",
+    "IDA_PATH":"D:\\myprogramfiles\\idapro75sp3\\idat64.exe",
+    "BINDIFF_PATH":"D:\\MyProgramFiles\\BinDiff\\bin\\bindiff.exe"
+}
